@@ -19,3 +19,4 @@
 {"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000IaiDzCNu2cpAMQIp9aN5cQ\u0000","aliases":[],"id":"IaiDzCNu2cpAMQIp9aN5cQ","name":"SourceCred","subtype":"PROJECT"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1652887521818,"uuid":"98UEDsJwhVwWQy6ZYxO4PQ","version":"1"}
 {"action":{"identityId":"IaiDzCNu2cpAMQIp9aN5cQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1652887521818,"uuid":"sAmxJt8EcLhGqYZMh3u9EQ","version":"1"}
 {"action":{"identityId":"wmCxoiGPQyNl67iArBvWVw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1652887582126,"uuid":"G00boMv80yRxqfPzCeFbXA","version":"1"}
+{"action":{"identityId":"CkxXFzetRAtpJMLwK06yvw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1654966158194,"uuid":"LpdzDtdePzPeSEqdMAujAQ","version":"1"}
