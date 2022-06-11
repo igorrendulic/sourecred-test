@@ -1,1 +1,13 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+    "repositories": [
+        "igorrendulic/dao-app",
+        "igorrendulic/mailio-evaporate-angular",
+        "igorrendulic/mailio-cryptolib-angular",
+        "igorrendulic/mcrypt-sdk-go",
+        "igorrendulic/home-security",
+        "igorrendulic/mailiodocs",
+        "igorrendulic/MimeEmailParser",
+        "igorrendulic/remoteexternalmonitorcontrol",
+        "igorrendulic/food_recognition_with_calorie_mama"
+    ]
+}
